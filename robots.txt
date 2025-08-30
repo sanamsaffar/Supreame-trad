@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /feed/
+Disallow: /comments/feed/
+Disallow: /?feed=comments-rss2
+Allow: /
+
+Sitemap: https://supreame-trading.com/sitemap.xml
